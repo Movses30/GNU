@@ -1,0 +1,20 @@
+{
+    "APB Data Bus Width": "32-bit",
+    "Allocate Memory": [
+        1,
+        9
+    ],
+    "Desable APB Memory": [
+        1,
+        9
+    ],
+    "Enable APB Memory": [
+        1,
+        9
+    ],
+    "Indicate Addressing": "Indirect address sourced from register(s) in slot 2 space ",
+    "License": "error",
+    "Nuber bits master": "24",
+    "Testbench": "User",
+    "position  upper 4 bits address": "[23:20] (Ignored  if master address width >= 28 bits)"
+}
